@@ -1,4 +1,3 @@
 Binge-watch Netflix
 Master Python
 Learn Astro
-Convert timorris.com to Astro
