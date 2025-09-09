@@ -25,6 +25,3 @@ for index, todo in enumerate(todos):
 st.divider()
 st.text_input(label='', placeholder='Add new todo...',
               on_change=add_todo, key='new_todo')
-
-st.divider()
-st.session_state
