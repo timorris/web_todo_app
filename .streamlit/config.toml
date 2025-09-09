@@ -1,0 +1,5 @@
+[theme]
+primaryColor = "#FF5733"  # Example color
+backgroundColor = "#EEEEEE"
+secondaryBackgroundColor = "#F0F0F0"
+textColor = "#696969"  # Customize text color

@@ -1,3 +1,5 @@
 Binge-watch Netflix
 Master Python
 Learn Astro
+deploy new app
+get better with Streamlit!

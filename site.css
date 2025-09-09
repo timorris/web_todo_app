@@ -1,0 +1,12 @@
+body {
+    color: #99cc99;
+}
+div[data-testid="stHeadingWithActionElements"] {
+    color: #99cc99;
+}
+div[data-testid="stWidgetLabel"]:nth-child(1) {
+    color: #dcdcdc;
+}
+.blurb {
+    color: #008b8b;
+}
