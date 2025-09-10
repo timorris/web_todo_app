@@ -1,5 +1,4 @@
-Binge-watch Netflix
 Master Python
 Learn Astro
-deploy new app
+Deploy New App
 get better with Streamlit!
