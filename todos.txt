@@ -1,4 +1,4 @@
 Master Python
 Learn Astro
-Deploy New App
-get better with Streamlit!
+Get Better with Streamlit!
+Generate a great personal Logo
