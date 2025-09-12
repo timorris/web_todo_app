@@ -1,4 +1,5 @@
 Master Python
 Learn Astro
 Get Better with Streamlit!
-Generate a great personal Logo
+Learn LangChain
+Learn Gradio
